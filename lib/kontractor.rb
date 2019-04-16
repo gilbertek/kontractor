@@ -1,0 +1,2 @@
+module Kontractor
+end
